@@ -9,10 +9,6 @@ Sponsorship
 -----------
 Please give me money:
 
-BTC: bc1qwm3rswv0xcunchw9q72mnsmxjzkhfdkwr0vlgu
-
-LTC: LdRc7Fz6poAuWvXexzGP4sQ7SFvn6uPuuX
-
 Card: https://buy.stripe.com/00g00m6e1gEW68E4gk
 
 Description
